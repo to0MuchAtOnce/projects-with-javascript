@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #eee;
+}
+
+.container {
+  margin: 50px;
+}
+
+#guess-btn.btn {
+  background-color: rgb(216, 135, 60);
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  color: #fff;
+  margin: 0 10px 0;
+}
+
+#guess-btn.btnplay-again {
+  background-color: rgb(216, 135, 60);
+  border: none;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  color: #fff;
+}
